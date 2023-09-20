@@ -1,4 +1,4 @@
-<h1>Implementing React Charts</h1>
+<h1> React Charts</h1>
 
 
 
